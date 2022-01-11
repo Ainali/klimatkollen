@@ -12,6 +12,7 @@
     "next": "12.0.7",
     "react": "17.0.2",
     "react-dom": "17.0.2",
+    "react-vis": "^1.11.7",
     "styled-components": "^5.3.3"
   },
   "eslintConfig": {
@@ -26,6 +27,7 @@
     "@iteam/eslint-config-react": "^0.3.2",
     "@types/node": "17.0.8",
     "@types/react": "17.0.38",
+    "@types/react-vis": "^1.11.10",
     "@typescript-eslint/eslint-plugin": "^5.9.0",
     "@typescript-eslint/parser": "^5.9.0",
     "eslint": "^7.32.0",
